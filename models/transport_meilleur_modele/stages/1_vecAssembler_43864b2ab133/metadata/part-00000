@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1767556458805,"sparkVersion":"3.5.1","uid":"vecAssembler_43864b2ab133","paramMap":{"outputCol":"features","inputCols":["lat","lon","ligne_idx"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"vecAssembler_43864b2ab133__output"}}
