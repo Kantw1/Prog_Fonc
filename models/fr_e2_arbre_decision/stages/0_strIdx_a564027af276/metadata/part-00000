@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1765452373615,"sparkVersion":"3.5.1","uid":"strIdx_a564027af276","paramMap":{"handleInvalid":"keep","outputCol":"polluant_idx","inputCol":"polluant"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"strIdx_a564027af276__output"}}

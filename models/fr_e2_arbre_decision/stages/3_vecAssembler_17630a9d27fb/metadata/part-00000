@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1765452375319,"sparkVersion":"3.5.1","uid":"vecAssembler_17630a9d27fb","paramMap":{"inputCols":["heure","jour_semaine","mois","jour_mois","polluant_idx","implantation_idx","influence_idx"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"vecAssembler_17630a9d27fb__output"}}
