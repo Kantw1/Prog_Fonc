@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PRF proje.iml" filepath="$PROJECT_DIR$/.idea/PRF proje.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Projet_PRF/spark_module/jfreechart.iml" filepath="$PROJECT_DIR$/Projet_PRF/spark_module/jfreechart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prog_Fonc.iml" filepath="$PROJECT_DIR$/.idea/Prog_Fonc.iml" />
     </modules>
   </component>
 </project>
